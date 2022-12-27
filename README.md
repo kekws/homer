@@ -60,7 +60,7 @@ Here are some of the features that the **Homer C2** server has...
 - Usage of GoLang's **net** TCP sockets *(can handle 100k's of  connections)*
 - Console User Interface built with [**gocui**](https://github.com/jroimartin/gocui) (I may change the design soon)
 
-![image](https://user-images.githubusercontent.com/117268252/205059654-db90869f-4fd2-430e-82df-07f3a5b73008.png)
+![image](https://user-images.githubusercontent.com/75194878/209686144-1df7b1d3-fe31-4248-8b10-d970411e46c0.png)
 
 ## Disclaimer
 
