@@ -1,4 +1,4 @@
-// Windows & Linux Connector Client for Homer-CNC
+// Windows & Linux Connector Client for Homer C2
 
 package main
 
