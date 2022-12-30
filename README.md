@@ -1,6 +1,6 @@
 # Homer C2
 
-Project Stage: **Early Alpha** 🟡
+Project Stage: **Early Alpha & Unfinished** 🟡
 
 To-Do:
   - ~~Create seperate homer socket logging/monitoring process (optional for user to see)~~
