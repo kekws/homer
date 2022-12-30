@@ -4,9 +4,10 @@ Project Stage: **Early Alpha** 🟡
 
 To-Do:
   - ~~Create seperate homer socket logging/monitoring process (optional for user to see)~~
+  - Create goroutine/threadpool for pinging socket connections
   - Remote Client Builder *(from **Homer** menu)*
   - Start remote shell with any connected machine *(ex. 'shell \<machine id>')*
-  - Improve Terminal User Interface interactivity
+  - Improve Terminal User Interface interactivity (seperate menu for bot commands)
 
 ## Description
 
